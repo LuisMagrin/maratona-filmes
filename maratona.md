@@ -17,3 +17,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Vingadores Ultimato
 - [ ] Homem de Ferro
+- [ ] Dr. Estranho
+- [ ] Vingadores: Guerra Infinita
